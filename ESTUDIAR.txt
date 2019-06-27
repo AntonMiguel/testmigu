@@ -3,3 +3,11 @@ push //pc		//error		//debo hacer pull	//por el notebook.txt que no tengo
 
 pull //pc
 push //pc
+
+
+push note		//error	//esta re cambiado el archivo amego... hacé pull
+pull note		//conflicto amigo, arreglalo en notebook.txt
+vim notebook.txt	//arreglo manualmente conflicto
+git add notebook.txt
+git commit		//mensajecommit me dice que parece que estoy intentando mergear... que si no que borre archivo mergeHead o algo así //no hice nada... lo guardé como cualquier commit
+git push
