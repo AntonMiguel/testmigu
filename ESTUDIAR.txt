@@ -1,0 +1,5 @@
+push //note
+push //pc		//error		//debo hacer pull	//por el notebook.txt que no tengo
+
+pull //pc
+push //pc
