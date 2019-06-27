@@ -11,3 +11,18 @@ vim notebook.txt	//arreglo manualmente conflicto
 git add notebook.txt
 git commit		//mensajecommit me dice que parece que estoy intentando mergear... que si no que borre archivo mergeHead o algo así //no hice nada... lo guardé como cualquier commit
 git push
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+		from		to
+
+PUSH		commit		REMOTO
+commit		staging		commit
+add		workspace	staging
+
+
+PULL		REMOTO		workspace
