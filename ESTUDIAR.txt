@@ -2,7 +2,7 @@ push //note
 push //pc		//error		//debo hacer pull	//por el notebook.txt que no tengo
 
 pull //pc
-push //pc
+push //pc		//commits locales, 1)merge que se hace solo creo, 2)note editado con pc, 3) note editado con pc x2localmente
 
 
 push note		//error	//esta re cambiado el archivo amego... hacé pull
